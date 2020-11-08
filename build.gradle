@@ -21,5 +21,6 @@ dependencies {
 
 test {
 	maxParallelForks = 10
+	testLogging.showStandardStreams = true
 	useJUnitPlatform()
 }

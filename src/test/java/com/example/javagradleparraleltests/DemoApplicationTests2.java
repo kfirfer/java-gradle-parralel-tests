@@ -3,7 +3,7 @@ package com.example.javagradleparraleltests;
 import org.junit.jupiter.api.Test;
 
 
-public class DemoApplicationTests extends BaseTest {
+public class DemoApplicationTests2 extends BaseTest {
 
 
     @Test
@@ -13,5 +13,4 @@ public class DemoApplicationTests extends BaseTest {
         Thread.sleep(2000);
         System.out.println("test 2");
     }
-
 }
