@@ -7,10 +7,10 @@ public class DemoApplicationTests3 extends BaseTest {
 
 
     @Test
-    public void testSayHelloWorld() throws Exception {
+    public void testSayHelloWorld3() throws Exception {
         Thread.sleep(2000);
-        System.out.println("test 1");
+        System.out.println("test 3");
         Thread.sleep(2000);
-        System.out.println("test 2");
+        System.out.println("test 3");
     }
 }

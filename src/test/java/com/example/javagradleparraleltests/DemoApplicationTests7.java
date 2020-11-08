@@ -1,6 +1,6 @@
 package com.example.javagradleparraleltests;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 
 public class DemoApplicationTests7 extends BaseTest {

@@ -1,6 +1,7 @@
 package com.example.javagradleparraleltests;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
 
 public class DemoApplicationTests extends BaseTest {
@@ -11,7 +12,7 @@ public class DemoApplicationTests extends BaseTest {
         Thread.sleep(2000);
         System.out.println("test 1");
         Thread.sleep(2000);
-        System.out.println("test 2");
+        System.out.println("test 1");
     }
 
 }

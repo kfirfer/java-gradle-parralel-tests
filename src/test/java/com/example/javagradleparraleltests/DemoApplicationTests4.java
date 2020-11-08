@@ -1,6 +1,6 @@
 package com.example.javagradleparraleltests;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 
 public class DemoApplicationTests4 extends BaseTest {
@@ -9,8 +9,8 @@ public class DemoApplicationTests4 extends BaseTest {
     @Test
     public void testSayHelloWorld() throws Exception {
         Thread.sleep(2000);
-        System.out.println("test 1");
+        System.out.println("test 4");
         Thread.sleep(2000);
-        System.out.println("test 2");
+        System.out.println("test 4");
     }
 }
