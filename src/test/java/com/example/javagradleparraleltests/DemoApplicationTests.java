@@ -1,11 +1,9 @@
 package com.example.javagradleparraleltests;
 
 import org.junit.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
 
 public class DemoApplicationTests extends BaseTest {
-
 
     @Test
     public void testSayHelloWorld() throws Exception {

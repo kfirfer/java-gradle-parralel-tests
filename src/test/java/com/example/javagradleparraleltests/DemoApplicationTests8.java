@@ -5,7 +5,6 @@ import org.junit.Test;
 
 public class DemoApplicationTests8 extends BaseTest {
 
-
     @Test
     public void testSayHelloWorld() throws Exception {
         Thread.sleep(2000);
@@ -13,4 +12,5 @@ public class DemoApplicationTests8 extends BaseTest {
         Thread.sleep(2000);
         System.out.println("test 2");
     }
+
 }

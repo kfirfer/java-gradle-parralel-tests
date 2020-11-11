@@ -1,7 +1,6 @@
 package com.example.javagradleparraleltests;
 
 import org.junit.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
 
 public class DemoApplicationTests2 extends BaseTest {
